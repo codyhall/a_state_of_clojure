@@ -1,0 +1,8 @@
+Patient_DW_ID,Mnemonic,TS,Var,Val
+01,Patient Temperature,2014-01-01 12:00:00,hcaSIRS8, 0
+02,Patient Temperature,2014-01-01 12:00:00,hcaSIRS8, 1
+03,Patient Temperature,2014-01-01 12:00:00,hcaSIRS8, 2
+04,Patient Temperature,2014-01-01 12:00:00,hcaSIRS8, 3
+05,Patient Temperature,2014-01-01 12:00:00,hcaSIRS8, 2
+06,Patient Temperature,2014-01-01 12:00:00,hcaSIRS8, 1
+07,Patient Temperature,2014-01-01 12:00:00,hcaSIRS8, 0
